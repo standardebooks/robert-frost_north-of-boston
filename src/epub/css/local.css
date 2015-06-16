@@ -10,6 +10,10 @@ abbr.initialism{
 	font-variant: all-small-caps;
 }
 
+abbr.name{
+	white-space: nowrap;
+}
+
 *[epub|type~="z3998:poem"] p{
 	text-align: left;
 	text-indent: 0;
