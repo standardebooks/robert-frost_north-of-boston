@@ -6,10 +6,6 @@ section{
 	page-break-after: always;
 }
 
-abbr.initialism{
-	font-variant: all-small-caps;
-}
-
 abbr.name{
 	white-space: nowrap;
 }
