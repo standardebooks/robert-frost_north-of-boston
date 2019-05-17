@@ -26,17 +26,15 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">North of Boston</dc:title>
 		<meta property="file-as" refines="#title">North of Boston</meta>
 		<dc:subject>Poetry</dc:subject>
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">A collection of Frost’s poetry.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;North of Boston&lt;/i&gt; is Robert Frost’s second collection of poetry. It includes some of his more famous poems, like “Mending Wall,” “Home Burial,” and “After Apple-Picking.”&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/3026</dc:source>
 		<dc:source>https://archive.org/details/northboston00frosgoog</dc:source>
