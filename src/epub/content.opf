@@ -28,7 +28,9 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">North of Boston</dc:title>
 		<meta property="file-as" refines="#title">North of Boston</meta>
-		<dc:subject>Poetry</dc:subject>
+		<dc:subject id="subject-1">Poetry</dc:subject>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh85103704</meta>
 		<meta property="se:subject">Poetry</meta>
 		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of Frost’s poetry.</dc:description>
