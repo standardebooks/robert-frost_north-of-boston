@@ -35,7 +35,7 @@
 		<meta property="term" refines="#subject-1">sh85103704</meta>
 		<meta property="schema:genre">Poetry</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of Frost’s poetry.</dc:abstract>
+		<meta property="schema:abstract">A collection of Frost’s poetry.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;North of Boston&lt;/i&gt; is &lt;a href="https://standardebooks.org/ebooks/robert-frost"&gt;Robert Frost’s&lt;/a&gt; second collection of poetry. It includes some of his more famous poems, like “Mending Wall,” “Home Burial,” and “After Apple-Picking.”&lt;/p&gt;
 		</dc:description>
